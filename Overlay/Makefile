@@ -37,6 +37,15 @@ include $(DEVKITPRO)/libnx/switch_rules
 #   of a homebrew executable (.nro). This is intended to be used for sysmodules.
 #   NACP building is skipped as well.
 #---------------------------------------------------------------------------------
+
+# ReverseNX-RT
+# 526576657273654E582D5254
+# E5BA95E5BAA7E6A8A1E5BC8F
+# 底座模式
+
+
+
+
 APP_TITLE	:=	ReverseNX-RT
 APP_VERSION	:=	2.2.0
 
